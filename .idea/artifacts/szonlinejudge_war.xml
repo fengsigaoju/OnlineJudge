@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="szonlinejudge:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="sz.online.judge.war">
+      <element id="artifact" artifact-name="szonlinejudge:war exploded" />
+    </root>
+  </artifact>
+</component>
